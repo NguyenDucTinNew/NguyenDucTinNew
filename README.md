@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc Tin</h1>
 <h3 align="center">Fullstack Deverloper</h3>
 
-- 🔭 I’m currently working on [E Commerce platform](https://github.com/HuyLieu1603/H-T)
+- 🔭 I’m currently working on [E Commerce platform](https://github.com/NguyenDucTinNew/Fruits_Store)
 
 - 🌱 I’m currently learning **React JS , Docker , AWS ,...**
 
