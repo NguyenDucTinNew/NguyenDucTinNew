@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS , Docker , AWS ,...**
 
-- ✅ The projects I have completed [Netflix Clone](https://github.com/HuyLieu1603/appxemphim)
+- ✅ The projects I have completed [Netflix Clone](https://github.com/NguyenDucTinNew/NetflixManager)
 
 - 📱 The mobile app I have completed [App Xem Phim](https://github.com/HuyLieu1603/appxemphim)
 
